@@ -1,0 +1,222 @@
+00:01:02 -> [ERROR]: ddddd
+00:01:02 -> [INFO]: ddddd
+00:01:02 -> [INFO]: service_name:FiendServiceRpc
+00:01:02 -> [INFO]: methodCnt:1
+00:01:02 -> [INFO]: method_name:GetFriendsList
+00:01:02 -> [INFO]: zookeeper init success
+00:01:02 -> [INFO]: znode create  success...path: /FiendServiceRpc/GetFriendsList
+00:01:02 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:01:10 -> [INFO]: zookeeper init success
+00:01:02 -> [ERROR]: rpc header str:FiendServiceRpcGetFriendsList� parse error!
+00:03:44 -> [ERROR]: ddddd
+00:03:44 -> [INFO]: ddddd
+00:03:44 -> [INFO]: service_name:FiendServiceRpc
+00:03:44 -> [INFO]: methodCnt:1
+00:03:44 -> [INFO]: method_name:GetFriendsList
+00:03:44 -> [INFO]: zookeeper init success
+00:03:44 -> [INFO]: znode create  success...path: /FiendServiceRpc/GetFriendsList
+00:03:44 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:03:53 -> [INFO]: zookeeper init success
+00:03:44 -> [ERROR]: rpc header str:FiendServiceRpcGetFriendsList� parse error!
+00:09:03 -> [INFO]: HELLO
+00:09:03 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:09:03 -> [INFO]: service_name:UserServiceRpc
+00:09:03 -> [INFO]: methodCnt:1
+00:09:03 -> [INFO]: method_name:Login
+00:09:03 -> [INFO]: zookeeper init success
+00:09:03 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:09:03 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:09:16 -> [INFO]: zookeeper init success
+00:09:03 -> [ERROR]: rpc header str:UserServiceRpcLogin
+xiongxx123456 parse error!
+00:10:44 -> [INFO]: HELLO
+00:10:44 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:10:44 -> [INFO]: service_name:UserServiceRpc
+00:10:44 -> [INFO]: methodCnt:1
+00:10:44 -> [INFO]: method_name:Login
+00:10:44 -> [INFO]: zookeeper init success
+00:10:44 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:10:44 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:10:47 -> [INFO]: zookeeper init success
+00:12:08 -> [INFO]: HELLO
+00:12:08 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:12:08 -> [INFO]: service_name:UserServiceRpc
+00:12:08 -> [INFO]: methodCnt:1
+00:12:08 -> [INFO]: method_name:Login
+00:12:08 -> [INFO]: zookeeper init success
+00:12:08 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:12:08 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:12:18 -> [INFO]: zookeeper init success
+00:12:08 -> [ERROR]: rpc header str:UserServiceRpcLogin
+xiongxx123456 parse error!
+00:16:21 -> [INFO]: HELLO
+00:16:21 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:16:21 -> [INFO]: service_name:UserServiceRpc
+00:16:21 -> [INFO]: methodCnt:1
+00:16:21 -> [INFO]: method_name:Login
+00:16:21 -> [INFO]: zookeeper init success
+00:16:21 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:16:21 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:16:24 -> [INFO]: zookeeper init success
+00:16:21 -> [ERROR]: rpc header str:UserServiceRpcLogin
+xiongxx123456 parse error!
+00:26:11 -> [INFO]: HELLO
+00:26:11 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:26:11 -> [INFO]: service_name:UserServiceRpc
+00:26:11 -> [INFO]: methodCnt:1
+00:26:11 -> [INFO]: method_name:Login
+00:26:11 -> [INFO]: zookeeper init success
+00:26:11 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:26:11 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:26:25 -> [INFO]:  caller SerializeToString success!
+00:26:25 -> [INFO]: zookeeper init success
+00:26:11 -> [ERROR]: rpc header str:UserServiceRpcLogin
+xiongxx123456 parse error!
+00:29:09 -> [INFO]: HELLO
+00:29:09 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:29:09 -> [INFO]: service_name:UserServiceRpc
+00:29:09 -> [INFO]: methodCnt:1
+00:29:09 -> [INFO]: method_name:Login
+00:29:09 -> [INFO]: zookeeper init success
+00:29:09 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:29:09 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:29:14 -> [INFO]:  caller SerializeToString success!
+00:29:14 -> [INFO]: zookeeper init success
+00:31:42 -> [INFO]: HELLO
+00:31:42 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:31:42 -> [INFO]: service_name:UserServiceRpc
+00:31:42 -> [INFO]: methodCnt:1
+00:31:42 -> [INFO]: method_name:Login
+00:31:42 -> [INFO]: zookeeper init success
+00:31:42 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:31:42 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:31:52 -> [INFO]:  caller SerializeToString success!
+00:31:52 -> [INFO]: zookeeper init success
+00:39:38 -> [INFO]: HELLO
+00:39:38 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:39:38 -> [INFO]: service_name:UserServiceRpc
+00:39:38 -> [INFO]: methodCnt:1
+00:39:38 -> [INFO]: method_name:Login
+00:39:38 -> [INFO]: zookeeper init success
+00:39:38 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:39:38 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:39:41 -> [INFO]:  caller SerializeToString success!
+00:39:41 -> [INFO]: zookeeper init success
+00:40:58 -> [INFO]: HELLO
+00:40:58 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:40:58 -> [INFO]: service_name:UserServiceRpc
+00:40:58 -> [INFO]: methodCnt:1
+00:40:58 -> [INFO]: method_name:Login
+00:40:58 -> [INFO]: zookeeper init success
+00:40:58 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:40:58 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:41:01 -> [INFO]:  caller SerializeToString success!
+00:41:01 -> [INFO]: zookeeper init success
+00:47:23 -> [INFO]: HELLO
+00:47:23 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:47:23 -> [INFO]: service_name:UserServiceRpc
+00:47:23 -> [INFO]: methodCnt:1
+00:47:23 -> [INFO]: method_name:Login
+00:47:23 -> [INFO]: zookeeper init success
+00:47:23 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+00:47:23 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:47:25 -> [INFO]:  caller SerializeToString success!
+00:47:25 -> [INFO]: zookeeper init success
+00:47:25 -> [INFO]:  get znode... path: /UserServiceRpc/Login
+00:47:25 -> [INFO]: connet success
+00:47:25 -> [INFO]: send rpc request success
+00:47:25 -> [INFO]: recv rpc response success
+00:47:25 -> [INFO]: parse  response success
+00:47:25 -> [INFO]: close zk success
+00:49:52 -> [INFO]: HELLO
+00:49:52 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+00:49:52 -> [INFO]: service_name:UserServiceRpc
+00:49:52 -> [INFO]: methodCnt:1
+00:49:52 -> [INFO]: method_name:Login
+00:49:52 -> [INFO]: zookeeper init success
+00:49:52 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+00:49:56 -> [INFO]:  caller SerializeToString success!
+00:49:56 -> [INFO]: zookeeper init success
+00:49:56 -> [INFO]:  get znode... path: /UserServiceRpc/Login
+00:49:56 -> [INFO]: connet success
+00:49:56 -> [INFO]: send rpc request success
+00:49:52 -> [ERROR]: rpc header str:UserServiceRpcLogin
+xiongxx123456 parse error!
+01:00:57 -> [INFO]: HELLO
+01:00:57 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+01:00:57 -> [INFO]: service_name:UserServiceRpc
+01:00:57 -> [INFO]: methodCnt:1
+01:00:57 -> [INFO]: method_name:Login
+01:00:57 -> [INFO]: zookeeper init success
+01:00:57 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+01:00:57 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+01:01:01 -> [INFO]:  caller SerializeToString success!
+01:01:01 -> [INFO]: zookeeper init success
+01:01:01 -> [INFO]:  get znode... path: /UserServiceRpc/Login
+01:01:01 -> [INFO]: connet success
+01:01:01 -> [INFO]: send rpc request success
+01:00:57 -> [ERROR]: rpc header str:UserServiceRpcLogin
+xiongxx123456 parse error!
+01:02:28 -> [INFO]: HELLO
+01:02:28 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+01:02:28 -> [INFO]: service_name:UserServiceRpc
+01:02:28 -> [INFO]: methodCnt:1
+01:02:28 -> [INFO]: method_name:Login
+01:02:28 -> [INFO]: zookeeper init success
+01:02:28 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+01:02:28 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+01:02:31 -> [INFO]:  caller SerializeToString success!
+01:02:31 -> [INFO]: zookeeper init success
+01:02:31 -> [INFO]:  get znode... path: /UserServiceRpc/Login
+01:02:31 -> [INFO]: connet success
+01:02:31 -> [INFO]: send rpc request success
+01:02:28 -> [INFO]: SendRpcResponse success
+01:02:31 -> [INFO]: recv rpc response success
+01:02:31 -> [INFO]: parse  response success
+01:02:31 -> [INFO]: close zk success
+01:03:54 -> [INFO]: HELLO
+01:03:54 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+01:03:54 -> [INFO]: service_name:UserServiceRpc
+01:03:54 -> [INFO]: methodCnt:1
+01:03:54 -> [INFO]: method_name:Login
+01:03:54 -> [INFO]: zookeeper init success
+01:03:54 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+01:03:54 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+01:03:57 -> [INFO]:  caller SerializeToString success!
+01:03:57 -> [INFO]: zookeeper init success
+01:03:57 -> [INFO]:  get znode... path: /UserServiceRpc/Login
+01:03:57 -> [INFO]: connet success
+01:03:57 -> [INFO]: send rpc request success
+01:03:57 -> [INFO]: recv rpc response success
+01:03:57 -> [INFO]: parse  response success
+01:03:57 -> [INFO]: close zk success
+01:05:13 -> [INFO]: HELLO
+01:05:13 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+01:05:13 -> [INFO]: service_name:UserServiceRpc
+01:05:13 -> [INFO]: methodCnt:1
+01:05:13 -> [INFO]: method_name:Login
+01:05:13 -> [INFO]: zookeeper init success
+01:05:13 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+01:05:13 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+01:05:16 -> [INFO]:  caller SerializeToString success!
+01:05:16 -> [INFO]: zookeeper init success
+01:05:16 -> [INFO]:  get znode... path: /UserServiceRpc/Login
+01:05:16 -> [INFO]: connet success
+01:05:16 -> [INFO]: send rpc request success
+01:05:16 -> [INFO]: recv rpc response success
+01:05:16 -> �d�h�U01:05:16 -> �)�h�U01:06:15 -> [INFO]: HELLO
+01:06:15 -> [ERROR]: /home/oorik/桌面/rpc/example/callee/userservice.cc,main,51
+01:06:15 -> [INFO]: service_name:UserServiceRpc
+01:06:15 -> [INFO]: methodCnt:1
+01:06:15 -> [INFO]: method_name:Login
+01:06:15 -> [INFO]: zookeeper init success
+01:06:15 -> [INFO]: znode create  success...path: /UserServiceRpc/Login
+01:06:15 -> [INFO]: server RpcProvider [ip: 127.0.0.1][port: 8000]
+01:06:18 -> [INFO]:  caller SerializeToString success!
+01:06:18 -> [INFO]: zookeeper init success
+01:06:15 -> [INFO]: SerializeToString reponse success
+01:06:18 -> [INFO]:  get znode... path: /UserServiceRpc/Login
+01:06:18 -> [INFO]: connet success
+01:06:18 -> [INFO]: send rpc request success
+01:06:18 -> [INFO]: recv rpc response success
+01:06:18 -> [INFO]: parse  response success

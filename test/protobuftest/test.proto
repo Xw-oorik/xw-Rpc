@@ -1,0 +1,58 @@
+syntax = "proto3";  //声明了protobuf的版本
+
+package mytest; //声明了 最后生成代码所在的包（类似cpp的namespace）
+
+//定义下面的选项，表示生成service服务类和rpc方法，默认用protoc不生成
+option cc_generic_services =true;
+message LogRequest  //消息1
+{
+    bytes name=1;   
+    bytes pwd=2;   
+    //map<int,string>mp=3; //映射表
+}
+
+message LogResponse //消息2
+{
+    int32 errcode=1;
+    bytes errmsg=2;
+    bool successful=3;
+}
+
+
+message ErrCode  //错误信息封装在一起方便用
+{
+    int32 errcode=1;
+    bytes errmsg=2;
+}
+message Detail //具体信息封装一起
+{
+    uint32 id=1;
+    bytes name=2;
+    uint32 age=3;
+    enum Sex
+    {
+        MAN=0;
+        WOMAN=1;
+    }
+    Sex sex=4;
+}  
+message GetUserFriendReq  //请求消息
+{
+    uint32 id=1;
+}
+//存列表
+message GetUserFriendRep  //回应消息
+{
+    ErrCode errs=1;
+    repeated Detail data=2; //列表
+}
+
+//在protobuf怎么描述rpc方法---service
+service UserServiceRpc
+{
+    rpc Login(LogRequest) returns(LogResponse);
+    rpc UserDetail(GetUserFriendReq) returns(GetUserFriendRep);
+}
+
+
+
